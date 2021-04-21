@@ -1,0 +1,15 @@
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Data.deps.json
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Data.dll
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Data.pdb
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Entities.dll
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Entities.pdb
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.csprojAssemblyReference.cache
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.csproj.CopyComplete
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.dll
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.pdb
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Data.runtimeconfig.json
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\bin\Debug\netcoreapp3.1\NewMovieAPI.Data.runtimeconfig.dev.json
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Data\obj\Debug\netcoreapp3.1\NewMovieAPI.Data.genruntimeconfig.cache

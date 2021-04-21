@@ -1,0 +1,8 @@
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\bin\Debug\netcoreapp3.1\NewMovieAPI.Entities.deps.json
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\bin\Debug\netcoreapp3.1\NewMovieAPI.Entities.dll
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\bin\Debug\netcoreapp3.1\NewMovieAPI.Entities.pdb
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\obj\Debug\netcoreapp3.1\NewMovieAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\obj\Debug\netcoreapp3.1\NewMovieAPI.Entities.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\obj\Debug\netcoreapp3.1\NewMovieAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\obj\Debug\netcoreapp3.1\NewMovieAPI.Entities.dll
+C:\Users\Kristijan\source\repos\NewMovieAPI\NewMovieAPI.Entities\obj\Debug\netcoreapp3.1\NewMovieAPI.Entities.pdb
