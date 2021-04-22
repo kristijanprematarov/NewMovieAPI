@@ -44,9 +44,10 @@ namespace NewMovieAPI.Controllers
         }
 
         // DELETE api/<MovieController>/5
-        [HttpDelete("{id}")]
+        [HttpDelete("deleteFilm/{id}")]
         public void Delete(int id)
         {
+            _movieService.Remove(id);
         }
     }
 }
